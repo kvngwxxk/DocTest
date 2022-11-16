@@ -1,0 +1,19 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/kangwooklee/Desktop/Desktop/XcodeProject/DocTest/DocTestMath/DocTestMath/DTPoint.h",
+      "line": 16,
+      "symbol": "DTPoint.x",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.ivar",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kangwooklee/Desktop/Desktop/XcodeProject/DocTest/DocTestMath/DocTestMath/DTPoint.h",
+      "line": 16,
+      "symbol": "DTPoint.y",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.ivar",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/kangwooklee/Desktop/Desktop/XcodeProject/DocTest/DocTestMath"
+}
