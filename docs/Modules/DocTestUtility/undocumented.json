@@ -1,0 +1,40 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/kangwooklee/Desktop/Desktop/XcodeProject/DocTest/DocTestUtility/DocTestUtility/Timestamp.swift",
+      "line": 33,
+      "symbol": "LogDateFormat.yearToMillisecond",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kangwooklee/Desktop/Desktop/XcodeProject/DocTest/DocTestUtility/DocTestUtility/Timestamp.swift",
+      "line": 34,
+      "symbol": "LogDateFormat.yearToSecond",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kangwooklee/Desktop/Desktop/XcodeProject/DocTest/DocTestUtility/DocTestUtility/Timestamp.swift",
+      "line": 35,
+      "symbol": "LogDateFormat.yearToMinute",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kangwooklee/Desktop/Desktop/XcodeProject/DocTest/DocTestUtility/DocTestUtility/Timestamp.swift",
+      "line": 36,
+      "symbol": "LogDateFormat.yearToHour",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kangwooklee/Desktop/Desktop/XcodeProject/DocTest/DocTestUtility/DocTestUtility/Timestamp.swift",
+      "line": 37,
+      "symbol": "LogDateFormat.date",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/kangwooklee/Desktop/Desktop/XcodeProject/DocTest"
+}
